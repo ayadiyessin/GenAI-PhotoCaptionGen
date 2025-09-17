@@ -37,7 +37,7 @@ Développé dans le cadre de ma formation en **Génie Logiciel**, ce projet comp
 - **Vision Transformer (ViT)** : Classification d'images  
 - **Encodeur-Décodeur Transformer** : Génération de légendes  
 - **Flask** : Développement de l'application web  
-- **Outils NLP & LLM** : BLEU, CIDEr, METEOR pour évaluer les performances  
+- **Outils NLP & LLM** : BLEU, CIDEr, NLTK, METEOR pour évaluer les performances  
 - **Manipulation des Données** : NumPy, Pandas  
 - **Traitement des Images** : OpenCV, Pillow  
 
